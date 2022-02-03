@@ -46,7 +46,7 @@ python drive.py model.h5
 
 ### To train the model
 
-You'll need the data folder which contains the training images.
+You'll need the data folder(IMG folder) which contains the training images.
 
 ```python
 python model.py
